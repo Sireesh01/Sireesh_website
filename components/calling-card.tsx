@@ -20,6 +20,7 @@ export function CallingCard() {
         <h1 className="mt-4 text-balance text-4xl font-semibold tracking-tight sm:text-5xl">
           Sireesh
         </h1>
+        <p className="mt-2 text-sm font-medium text-primary">Now on GitHub</p>
         <p className="mt-3 text-pretty text-lg text-muted-foreground">
           Freelance AI trainer and software task specialist
         </p>
